@@ -34,7 +34,7 @@ export async function GET(req, res) {
     const data = searchParams.get('data');
     const newData = { id: id, field: field, data: data };
 
-    const supabase = createClient('https://hnwvtwsogrvwctxbazrt.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhud3Z0d3NvZ3J2d2N0eGJhenJ0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE2MzM3NTcsImV4cCI6MjA1NzIwOTc1N30.5yf5JxodR7Ok6soJwNJkMQ-z62aneAJWqjPkeV1VkB0');
+    const supabase = createClient('https://rwmevdeoxkfkblouqrmu.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ3bWV2ZGVveGtma2Jsb3Vxcm11Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk2NTk1MjYsImV4cCI6MjA2NTIzNTUyNn0.P4H_rGGEXvAWDxgxVAMbjxMxU26NVB0SjL3yVsQuFuA');
 
     try {
       const { error } = await supabase.from('tableBody')
