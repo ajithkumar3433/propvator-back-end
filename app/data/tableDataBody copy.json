@@ -1,0 +1,7566 @@
+[
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 132,
+    "price": 113.28,
+    "discount": "PROPVATOR",
+    "size": 20,
+    "steps": "3 Step",
+    "profitSplit": "50%",
+    "profitTarget": "2% | 3% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Monevis",
+    "firmPath": "monevis",
+    "logo": "/Images/brands/monevis.svg",
+    "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+    "calcPrice": "15% OFF",
+    "salePrice": 190,
+    "price": 162,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "85%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": "20",
+    "rating": "4.7",
+    "delcredits": "",
+    "credits": 4,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 59,
+    "price": 50,
+    "discount": "PROPVATOR",
+    "size": 6,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "9%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 2,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 100,
+    "price": 50,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 100,
+    "price": 90,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 2,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 110,
+    "price": 93.41,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 150,
+    "price": 135,
+    "discount": "PROPVATOR",
+    "size": 20,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Monevis",
+    "firmPath": "monevis",
+    "logo": "/Images/brands/monevis.svg",
+    "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+    "calcPrice": "15% OFF",
+    "salePrice": 80,
+    "price": 68,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "85%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": "20",
+    "rating": "4.7",
+    "delcredits": "",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/PROPVATOR/",
+    "calcPrice": "40% OFF",
+    "salePrice": 239,
+    "price": 143.40,
+    "discount": "PROPVATOR",
+    "size": 150,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "6%",
+    "maxDrawDown": "4%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "15",
+    "rating": "4.6",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 425,
+    "price": 340.00,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 117,
+    "price": 99,
+    "discount": "PROPVATOR",
+    "size": 15,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 3,
+    "rating": "4.5",
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/PROPVATOR/",
+    "calcPrice": "40% OFF",
+    "salePrice": 139,
+    "price": 83.4,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "8%",
+    "maxDrawDown": "3.50%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "5",
+    "rating": "4.6",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 4500,
+    "price": 3960.00,
+    "discount": "12EVAL",
+    "size": 100,
+    "steps": "0 Step",
+    "profitSplit": "80%",
+    "profitTarget": "0",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "6%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 101,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 150.00,
+    "price": 135.00,
+    "discount": "PROPVATOR",
+    "size": 20,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 3.38,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/PROPVATOR/",
+    "calcPrice": "40% OFF",
+    "salePrice": 279,
+    "price": 167.40,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "8%",
+    "maxDrawDown": "3.50%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "10",
+    "rating": "4.6",
+    "credits": 6,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 132,
+    "price": 112.28,
+    "discount": "PROPVATOR",
+    "size": 2,
+    "steps": "0 Step",
+    "profitSplit": "50%",
+    "profitTarget": "10%",
+    "maxDrawDown": "0%",
+    "dailyDrawDown": "10%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Monevis",
+    "firmPath": "monevis",
+    "logo": "/Images/brands/monevis.svg",
+    "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+    "calcPrice": "15% OFF",
+    "salePrice": 49,
+    "price": 42,
+    "discount": "PROPVATOR",
+    "size": 5,
+    "steps": "2 Step",
+    "profitSplit": "85%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": "20",
+    "rating": "4.7",
+    "delcredits": "",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 345,
+    "price": 276.00,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "3 Step",
+    "profitSplit": "90%",
+    "profitTarget": "6% | 6% | 6%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 4,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 50,
+    "price": 45,
+    "discount": "PROPVATOR",
+    "size": 5,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 1,
+  "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 2996,
+    "price": 2546.51,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "0 Step",
+    "profitSplit": "50%",
+    "profitTarget": "10%",
+    "maxDrawDown": "0%",
+    "dailyDrawDown": "10%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 67,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipFarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 100.00,
+    "price": 90,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 2.25,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 995,
+    "price": 796.00,
+    "discount": "PROPVATOR",
+    "size": 200,
+    "steps": "3 Step",
+    "profitSplit": "90%",
+    "profitTarget": "6% | 6% | 6%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 12,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 49,
+    "price": 42,
+    "discount": "PROPVATOR",
+    "size": 6,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "6% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "10%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 1,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 499,
+    "price": 439.12,
+    "discount": "12EVAL",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 11,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Monevis",
+    "firmPath": "monevis",
+    "logo": "/Images/brands/monevis.svg",
+    "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+    "calcPrice": "15% OFF",
+    "salePrice": 507,
+    "price": 431,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "85%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": "20",
+    "rating": "4.7",
+    "delcredits": "",
+    "credits": 11,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 720,
+    "price": 576.00,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 9,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 550,
+    "price": 495,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 12,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 529,
+    "price": 450,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "9%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 11,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 88,
+    "price": 74.54,
+    "discount": "PROPVATOR",
+    "size": 1,
+    "steps": "0 Step",
+    "profitSplit": "50%",
+    "profitTarget": "10%",
+    "maxDrawDown": "0%",
+    "dailyDrawDown": "10%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.8",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 140,
+    "price": 112.00,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 209,
+    "price": 178,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 4,
+    "rating": "4.5",
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 349,
+    "price": 307.12,
+    "discount": "12EVAL",
+    "size": 50,
+    "steps": "2 Step B",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 8,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 300,
+    "price": 270,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 7,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 700,
+    "price": 560.00,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "7% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 9,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Monevis",
+    "firmPath": "monevis",
+    "logo": "/Images/brands/monevis.svg",
+    "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+    "calcPrice": "20% OFF",
+    "salePrice": 987,
+    "price": 790,
+    "discount": "FLASH20",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "85%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": "20",
+    "rating": "4.7",
+    "delcredits": "",
+    "credits": 23,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 189,
+    "price": 161,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "6% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "10%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 4,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 100,
+    "price": 90,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 2,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 119,
+    "price": 95.20,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "7% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 119,
+    "price": 104.72,
+    "discount": "12EVAL",
+    "size": 12.5,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 226,
+    "price": 180.80,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "3 Step",
+    "profitSplit": "90%",
+    "profitTarget": "6% | 6% | 6%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 299,
+    "price": 254,
+    "discount": "BOGO",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 6,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 1108.89,
+    "price": 942.56,
+    "discount": "PROPVATOR",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 22,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 2000,
+    "price": 1800,
+    "discount": "FEB2",
+    "size": 350,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 45,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 280,
+    "price": 224.00,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "7% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 4,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Monevis",
+    "firmPath": "monevis",
+    "logo": "/Images/brands/monevis.svg",
+    "buy": "https://www.monevis.com/en?ref=propvator&promo=PROPVATOR",
+    "calcPrice": "15% OFF",
+    "salePrice": 297,
+    "price": 252,
+    "discount": "FLASH20",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "85%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": "20",
+    "rating": "4.7",
+    "delcredits": "",
+    "credits": 7,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 99,
+    "price": 84,
+    "discount": "BOGO",
+    "size": 15,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "6% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "10%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 2,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 450,
+    "price": 396.00,
+    "discount": "12EVAL",
+    "size": 10,
+    "steps": "0 Step",
+    "profitSplit": "80%",
+    "profitTarget": "0",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "6%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 10,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "40% OFF",
+    "salePrice": 298,
+    "price": 178.80,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 4,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 200,
+    "price": 180,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 5,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 550,
+    "price": 440,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 11,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 949,
+    "price": 835.12,
+    "discount": "12EVAL",
+    "size": 200,
+    "steps": "2 Step B",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 21,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 564,
+    "price": 451.20,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "3 Step",
+    "profitSplit": "90%",
+    "profitTarget": "6% | 6% | 6%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 7,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 489,
+    "price": 416,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "6% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "10%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 10,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 2219,
+    "price": 1886.06,
+    "discount": "PROPVATOR",
+    "size": 400,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 45,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 3000,
+    "price": 2700,
+    "discount": "PROPVATOR",
+    "size": 500,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 68,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 209,
+    "price": 178,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "9%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 4,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 1341,
+    "price": 1072.80,
+    "discount": "PROPVATOR",
+    "size": 200,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 16,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 397,
+    "price": 349.36,
+    "discount": "12EVAL",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 9,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "25% OFF",
+    "salePrice": 550,
+    "price": 495,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 12,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 200,
+    "price": 180,
+    "discount": "PROPVATOR",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 5,
+  "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 59,
+    "price": 50,
+    "discount": "PROPVATOR",
+    "size": 6,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 2,
+    "rating": "4.5",
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 332,
+    "price": 282.11,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 7,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 50,
+    "price": 45,
+    "discount": "PROPVATOR",
+    "size": 5,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 1,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 299,
+    "price": 254,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "9%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 6,
+    "rating": "4.5",
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 547,
+    "price": 481.36,
+    "discount": "12EVAL",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 12,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 271,
+    "price": 230.21,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "3 Step",
+    "profitSplit": "50%",
+    "profitTarget": "2% | 3% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 529,
+    "price": 450,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 11,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 50,
+    "price": 45,
+    "discount": "PROPVATOR",
+    "size": 5,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 1.13,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 199,
+    "price": 175.12,
+    "discount": "12EVAL",
+    "size": 25,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 4,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 1100,
+    "price": 990,
+    "discount": "FEB1",
+    "size": 200,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 25,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 117,
+    "price": 99,
+    "discount": "PROPVATOR",
+    "size": 15,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "9%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "3%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 3,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 554,
+    "price": 470.81,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 11,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 1125,
+    "price": 990.00,
+    "discount": "12EVAL",
+    "size": 25,
+    "steps": "0 Step",
+    "profitSplit": "80%",
+    "profitTarget": "0",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "6%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 25,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 300,
+    "price": 270,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 7,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 247,
+    "price": 217.36,
+    "discount": "12EVAL",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 287,
+    "price": 244.37,
+    "discount": "PROPVATOR",
+    "size": 5,
+    "steps": "0 Step",
+    "profitSplit": "50%",
+    "profitTarget": "10%",
+    "maxDrawDown": "0%",
+    "dailyDrawDown": "10%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 6,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 1050.00,
+    "price": 945.00,
+    "discount": "PROPVATOR",
+    "size": 200,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 23.63,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 3000,
+    "price": 2700,
+    "discount": "PROPVATOR",
+    "size": 500,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 68,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 949,
+    "price": 835.12,
+    "discount": "12EVAL",
+    "size": 200,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 21,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 165,
+    "price": 140.58,
+    "discount": "PROPVATOR",
+    "size": 20,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 1200,
+    "price": 960.00,
+    "discount": "PROPVATOR",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "7% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 15,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 1100,
+    "price": 990,
+    "discount": "FEB1",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 25,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 1097,
+    "price": 965.36,
+    "discount": "12EVAL",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 25,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "FTMO",
+    "firmPath": "ftmo",
+    "logo": "/Images/brands/FTMO.svg",
+    "buy": "https://ftmo.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 161,
+    "price": 161,
+    "discount": "",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": true,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 499,
+    "price": 439.12,
+    "discount": "12EVAL",
+    "size": 100,
+    "steps": "2 Step B",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 11,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "FTMO",
+    "firmPath": "ftmo",
+    "logo": "/Images/brands/FTMO.svg",
+    "buy": "https://ftmo.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 1125,
+    "price": 1125,
+    "discount": "",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": true,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funding Traders",
+    "firmPath": "funding-traders",
+    "logo": "/Images/brands/fundingTraders.svg",
+    "buy": "https://app.fundingtraders.com/login?ref=fdq5588",
+    "calcPrice": "10% OFF",
+    "salePrice": 2000,
+    "price": 1800,
+    "discount": "PROPVATOR",
+    "size": 350,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "5%",
+    "dailyDrawDown": "4%",
+    "commission": 0,
+    "leverage": 100,
+    "rating": 4.5,
+    "credits": 45,
+   "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,        
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,       
+        "capital markets": false,
+        "match trade": false,        
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 465,
+    "price": 395.33,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "3 Step",
+    "profitSplit": "50%",
+    "profitTarget": "2% | 3% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 9,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 2250,
+    "price": 1980.00,
+    "discount": "12EVAL",
+    "size": 50,
+    "steps": "0 Step",
+    "profitSplit": "80%",
+    "profitTarget": "0",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "6%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 50,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Capital",
+    "firmPath": "alpha-capital-group",
+    "logo": "/Images/brands/alpha.svg",
+    "buy": "https://alphacapitalgroup.uk/",
+    "calcPrice": "0% OFF",
+    "salePrice": 197,
+    "price": 197,
+    "discount": "",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.4",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/PROPVATOR/",
+    "calcPrice": "40% OFF",
+    "salePrice": 159,
+    "price": 95.40,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "6%",
+    "maxDrawDown": "4%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "10",
+    "rating": "4.6",
+    "credits": 3,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 400,
+    "price": 320.00,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "7% | 5%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "FTMO",
+    "firmPath": "ftmo",
+    "logo": "/Images/brands/FTMO.svg",
+    "buy": "https://ftmo.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 359,
+    "price": 359,
+    "discount": "",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": true,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Capital",
+    "firmPath": "alpha-capital-group",
+    "logo": "/Images/brands/alpha.svg",
+    "buy": "https://alphacapitalgroup.uk/",
+    "calcPrice": "0% OFF",
+    "salePrice": 97,
+    "price": 97,
+    "discount": "",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.4",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 225,
+    "price": 198.00,
+    "discount": "12EVAL",
+    "size": 5,
+    "steps": "0 Step",
+    "profitSplit": "80%",
+    "profitTarget": "0",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "6%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 5,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": true,
+    "firm": "Quant Tekel",
+    "firmPath": "quant-tekel",
+    "logo": "/Images/brands/QuantTekel.svg",
+    "buy": "https://quanttekel.com/?ref=17",
+    "calcPrice": "20% OFF",
+    "salePrice": 101,
+    "price": 80.80,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "3 Step",
+    "profitSplit": "90%",
+    "profitTarget": "6% | 6% | 6%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "4%",
+    "commission": 4,
+    "leverage": 100,
+    "rating": "4.5",
+    "credits": 1,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": false,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 1550,
+    "price": 1395,
+    "discount": "PROPVATOR",
+    "size": 300,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 35,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 110,
+    "price": 110,
+    "discount": "",
+    "size": 10,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 50,
+    "price": 45,
+    "discount": "PROPVATOR",
+    "size": 5,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 1,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 199,
+    "price": 175.12,
+    "discount": "12EVAL",
+    "size": 25,
+    "steps": "2 Step B",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 4,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 725,
+    "price": 725,
+    "discount": "",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "5%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "For Traders",
+    "firmPath": "for-traders",
+    "logo": "/Images/brands/forTraders.svg",
+    "buy": "https://dashboard.fortraders.com/purchasechallenge?sl=544",
+    "calcPrice": "15% OFF",
+    "salePrice": 269,
+    "price": 229,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "6% | 6%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "10%",
+    "commission": 3,
+    "leverage": 125,
+    "credits": 5,
+    "rating": "4.5",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": false
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": true,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 1550.00,
+    "price": 1395.00,
+    "discount": "PROPVATOR",
+    "size": 300,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 34.88,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 275,
+    "price": 275,
+    "discount": "",
+    "size": 25,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 1050,
+    "price": 945,
+    "discount": "PROPVATOR",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 24,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Fintokei",
+    "firmPath": "fintokei",
+    "logo": "/Images/brands/fintokei.svg",
+    "buy": "https://my.fintokei.com/affiliate/en/854",
+    "calcPrice": "10% OFF",
+    "salePrice": 576,
+    "price": 489.68,
+    "discount": "PROPVATOR",
+    "size": 10,
+    "steps": "0 Step",
+    "profitSplit": "50%",
+    "profitTarget": "10%",
+    "maxDrawDown": "0%",
+    "dailyDrawDown": "10%",
+    "commission": 6,
+    "leverage": 50,
+    "rating": "4.7",
+    "credits": 13,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": true,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": true
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": true,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,       
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/PROPVATOR/",
+    "calcPrice": "40% OFF",
+    "salePrice": 419,
+    "price": 251.40,
+    "discount": "PROPVATOR",
+    "size": 150,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "8%",
+    "maxDrawDown": "3.50%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "15",
+    "rating": "4.6",
+    "credits": 8,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Capital",
+    "firmPath": "alpha-capital-group",
+    "logo": "/Images/brands/alpha.svg",
+    "buy": "https://alphacapitalgroup.uk/",
+    "calcPrice": "0% OFF",
+    "salePrice": 297,
+    "price": 297,
+    "discount": "",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.4",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 55,
+    "price": 55,
+    "discount": "",
+    "size": 5,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "FTMO",
+    "firmPath": "ftmo",
+    "logo": "/Images/brands/FTMO.svg",
+    "buy": "https://ftmo.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 260,
+    "price": 260,
+    "discount": "",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": true,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Futures",
+    "logo": "/Images/brands/alphaFutures.svg",
+    "buy": "https://app.alpha-futures.com/signup/PROPVATOR/",
+    "calcPrice": "40% OFF",
+    "salePrice": 79,
+    "price": 47.40,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "6%",
+    "maxDrawDown": "4%",
+    "dailyDrawDown": "2%",
+    "commission": 0,
+    "leverage": "5",
+    "rating": "4.6",
+    "credits": 2,
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": true,
+        "stocks": false,
+        "crypto": false,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": false,
+        "nigeria": false,
+        "turkiye": false,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": false,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Capital",
+    "firmPath": "alpha-capital-group",
+    "logo": "/Images/brands/alpha.svg",
+    "buy": "https://alphacapitalgroup.uk/",
+    "calcPrice": "0% OFF",
+    "salePrice": 497,
+    "price": 497,
+    "discount": "",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.4",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 300,
+    "price": 270,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "70%",
+    "profitTarget": "9% | 9%",
+    "maxDrawDown": "9%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 7,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 495,
+    "price": 495,
+    "discount": "",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 300.00,
+    "price": 270.00,
+    "discount": "PROPVATOR",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 6.75,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 800,
+    "price": 800,
+    "discount": "",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "90%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Funded Trading Plus",
+    "firmPath": "funded-trading-plus",
+    "logo": "/Images/brands/fundedTradingPlus.svg",
+    "buy": "https://www.fundedtradingplus.com/?ref=3775",
+    "calcPrice": "12% OFF",
+    "salePrice": 349,
+    "price": 307.12,
+    "discount": "12EVAL",
+    "size": 50,
+    "steps": "1 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "6%",
+    "dailyDrawDown": "4%",
+    "commission": 7,
+    "leverage": 30,
+    "rating": "4.8",
+    "credits": 8,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": true
+      },
+      "broker": {
+        "think markets": true,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": true,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 450,
+    "price": 450,
+    "discount": "",
+    "size": 50,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "5%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Alpha Capital",
+    "firmPath": "alpha-capital-group",
+    "logo": "/Images/brands/alpha.svg",
+    "buy": "https://alphacapitalgroup.uk/",
+    "calcPrice": "0% OFF",
+    "salePrice": 997,
+    "price": 997,
+    "discount": "",
+    "size": 200,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "8%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 0,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.4",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": false,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 100,
+    "price": 100,
+    "discount": "",
+    "size": 10,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "5%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "FTMO",
+    "firmPath": "ftmo",
+    "logo": "/Images/brands/FTMO.svg",
+    "buy": "https://ftmo.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 562,
+    "price": 562,
+    "discount": "",
+    "size": 100,
+    "steps": "2 Step",
+    "profitSplit": "80%",
+    "profitTarget": "10%",
+    "maxDrawDown": "10%",
+    "dailyDrawDown": "5%",
+    "commission": 3,
+    "leverage": 100,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": true,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": false,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": true,
+        "mt5": true,
+        "ctrader": true,
+        "dxtrade": true,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 250,
+    "price": 250,
+    "discount": "",
+    "size": 25,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "5%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  },
+  {
+    "verified": false,
+    "singleFirm": false,
+    "firm": "PipFarm",
+    "firmPath": "pipfarm",
+    "logo": "/Images/brands/pipfarm_logo.svg",
+    "buy": "https://partners.pipfarm.com/click?campaign_id=2&ref_id=93",
+    "calcPrice": "10% OFF",
+    "salePrice": 550.00,
+    "price": 495.00,
+    "discount": "PROPVATOR",
+    "size": 100,
+    "steps": "1 Step",
+    "profitSplit": "70%",
+    "profitTarget": "12%",
+    "maxDrawDown": "12%",
+    "dailyDrawDown": "3%",
+    "commission": 6,
+    "leverage": 30,
+    "rating": 4.5,
+    "credits": 12.38,
+    "filterType": {
+      "assetType": {
+        "forex": true,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": true,
+        "commodities": true
+      },
+      "countries": {
+        "usa": false,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": true,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": false
+      }
+    }
+  },
+  {
+    "verified": true,
+    "singleFirm": false,
+    "firm": "Breakout",
+    "firmPath": "break-out",
+    "logo": "/Images/brands/breakout.svg",
+    "buy": "https://www.breakoutprop.com/",
+    "calcPrice": "0% OFF",
+    "salePrice": 50,
+    "price": 50,
+    "discount": "",
+    "size": 5,
+    "steps": "2 Step",
+    "profitSplit": "90%",
+    "profitTarget": "5%",
+    "maxDrawDown": "8%",
+    "dailyDrawDown": "5%",
+    "commission": 7,
+    "leverage": 5,
+    "credits": 0,
+    "rating": "4.8",
+    "filterType": {
+      "assetType": {
+        "forex": false,
+        "futures": false,
+        "stocks": false,
+        "crypto": true,
+        "indices": false,
+        "commodities": false
+      },
+      "countries": {
+        "usa": true,
+        "pakistan": true,
+        "nigeria": true,
+        "turkiye": true,
+        "dubai": true
+      },
+      "accountTypes": {
+        "0 step": false,
+        "1 step": true,
+        "2 Step": true,
+        "3 Step": false
+      },
+      "platforms": {
+        "mt4": false,
+        "mt5": false,
+        "ctrader": false,
+        "dxtrade": false,
+        "tradelocker": false,
+        "match trader": false
+      },
+      "broker": {
+        "think markets": false,
+        "purple trading": false,
+        "capital markets": false,
+        "match trade": false,
+        "taurex": false,
+        "own broker": true
+      }
+    }
+  }
+]
